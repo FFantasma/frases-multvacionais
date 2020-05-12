@@ -25,6 +25,10 @@ h1 {
   font-family: "Press Start 2P", sans-serif;
 }
 
+.nes-pokeball {
+  text-align: center;
+}
+
 .frase {
   justify-self: center;
   max-width: 32rem;
